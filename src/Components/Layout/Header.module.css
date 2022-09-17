@@ -1,0 +1,11 @@
+
+ .header_pages{
+   flex-grow: unset;
+ }
+
+ .header2{
+  background: #52AB84;
+ }
+ .header2_logo{
+  filter: brightness(0) invert(1);
+ }

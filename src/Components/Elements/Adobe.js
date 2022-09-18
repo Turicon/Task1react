@@ -1,5 +1,5 @@
 import React from 'react'
-import { Images } from "../Images"
+import { Images } from "../../Assets/images/Images"
 const Adobe = () => {
     return (
         <div className='adobe'>

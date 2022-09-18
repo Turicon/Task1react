@@ -3,7 +3,7 @@ import React, { useEffect } from 'react';
 import { SearchOutlined, ArrowRightOutlined } from '@ant-design/icons';
 import Search from '../Elements/Search'
 import styles from './Home.module.css';
-import { Images } from "../Images"
+import { Images } from "../../Assets/images/Images"
 
 import {
     Input,

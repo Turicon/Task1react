@@ -1,4 +1,4 @@
-import { Images } from "../Images"
+import { Images } from "../../Assets/images/Images"
 import styles from './Header.module.css'
 import { NavLink } from 'react-router-dom'
 import Search from '../Elements/Search'
